@@ -1,4 +1,4 @@
-# StoryBooks
+# StoryBooks &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 > Create public and private stories from your life
 
@@ -18,3 +18,6 @@ npm run dev
 # Run in production
 npm start
 ```
+### License
+
+STORYBOOKS is [MIT licensed](./LICENSE).
