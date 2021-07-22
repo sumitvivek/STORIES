@@ -1,4 +1,4 @@
-# StoryBooks &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Stories &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 > Create public and private stories from your life
 
