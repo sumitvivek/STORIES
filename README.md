@@ -18,6 +18,8 @@ npm run dev
 # Run in production
 npm start
 ```
+### Screenshots
+>On local machine
 ### License
 
 STORIES is [MIT licensed](./LICENSE).
