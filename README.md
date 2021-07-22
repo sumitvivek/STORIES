@@ -20,4 +20,4 @@ npm start
 ```
 ### License
 
-STORYBOOKS is [MIT licensed](./LICENSE).
+STORIES is [MIT licensed](./LICENSE).
